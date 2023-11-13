@@ -35,24 +35,24 @@ let questions = [
   },
   {
     numb: 4,
-    question: "?",
-    answer: "12",
+    question: "Qual a função do clorosplasto?",
+    answer: "Realizar a fotossíntese",
     options: [
-      "12",
-      "11",
-      "14",
-      "13"
+      "Realizar a fotossíntese",
+      "Produzir proteína",
+      "Responsável pela respiração celular?",
+      "Armazena o código genético"
     ]
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
+    question: "Qual é o maior planeta do sistema solar?",
+    answer: "Júpiter",
     options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+      "Júpiter",
+      "Urano",
+      "Terra",
+      "Mercúrio"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
