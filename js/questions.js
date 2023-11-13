@@ -13,29 +13,29 @@ let questions = [
   },
   {
     numb: 2,
-    question: "Por que ?",
-    answer: "Sudão do Sul",
+    question: "Por que os países desenvolvidos tendem a ter a pirâmide etária com base mais extreita e altura mais larga?",
+    answer: "Por causa da alta expectativa de vida e a inserção da mulher no mercado de trabalho",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "Por causa da alta expectativa de vida e a inserção da mulher no mercado de trabalho",
+      "Por causa da qualidade de vida desses países é baixo ",
+      "Por causa do PIB do país",
+      "Por causa da baixa expectativa de vida"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "Qual é o país com maior população atualmente?",
+    answer: "Índia",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "Índia",
+      "China",
+      "Estados Unidos"
+      "Brasil"
     ]
   },
   {
     numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
+    question: "?",
     answer: "12",
     options: [
       "12",
