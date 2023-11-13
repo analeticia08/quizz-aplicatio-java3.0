@@ -2,18 +2,18 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "Quem foi o reponsável por abolir a escravidão?",
+    answer: "Princesa Isabel",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "Princesa Isabel",
+      "João VI",
+      "D.Pedro",
+      "D. Pedro II"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
+    question: "Por que ?",
     answer: "Sudão do Sul",
     options: [
       "Timor Lestet",
